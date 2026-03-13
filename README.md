@@ -35,9 +35,9 @@ Supported profilers:
 1. [**HUMANn v3**](https://huttenhower.sph.harvard.edu/humann/) — functional profiling via MetaPhlAn + HUMANn 3 (`--run_humann_v3`)
 2. [**HUMANn v4**](https://huttenhower.sph.harvard.edu/humann/) — functional profiling via MetaPhlAn + HUMANn 4 (`--run_humann_v4`)
 3. [**FMH FunProfiler**](https://github.com/dib-lab/fmh_funprofiler) — sketch-based functional profiling (`--run_fmhfunprofiler`)
-4. **RGI** — antimicrobial resistance gene identification (`--run_rgi`, available)
-5. **mifaser** — functional profiling via mifaser (`--run_mifaser`, available)
-6. **DIAMOND** — alignment with DIAMOND blastx (`--run_diamond`, available)
+4. [**RGI**](https://github.com/arpcard/rgi) — antimicrobial resistance gene identification (`--run_rgi`, available)
+5. [**mifaser**](https://bromberglab.org/project/mifaser/) — functional profiling via mifaser (`--run_mifaser`, available)
+6. [**DIAMOND**](https://github.com/bbuchfink/diamond) — alignment with DIAMOND blastx (`--run_diamond`, available)
 7. [**eggNOG-mapper**](https://academic.oup.com/mbe/article/38/12/5825/6379734) — functional annotation, orthology assignments and domain prediction (`--run_eggnogmapper`, available)
 
 ## Usage
