@@ -27,7 +27,7 @@
 
 ### Pipeline Summary
 
-![](./assests/pipeline_light.svg)
+![](./assets/pipeline_light.svg)
 
 
 Supported profilers:
